@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vipzhoufeiyan/vipzhoufeiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 言听机从
 
-Here are some ideas to get you started:
+### 让记录可回溯，让 AI 工作看得见。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JoahZ · 个人工具开发者
+
+**言听 · 整理所闻**　／　**机说 · 看见运行**
+
+</div>
+
+---
+
+我在做两件日常会用到的小工具：把录音整理成能查找、能回听的资料，把 AI agent 的运行状态变成看得见的画面。
+
+「言听机从」是这两个方向共同的人设与创作主题：认真听人说话，让机器的工作有迹可循。工具持续改进，决定留给使用它的人。
+
+## 两个工具
+
+| | 言听 · YanTing | 机说 · JiShuo |
+| :--- | :--- | :--- |
+| 从哪里开始 | 一段录音 | 正在运行的 AI agent |
+| 做什么 | 导入、转写、整理与归档 | 汇集运行事件，呈现状态与活动 |
+| 帮上什么忙 | 查找资料，回听原话，复用记录 | 看见哪些 agent 在工作，以及它们的运行变化 |
+
+两个项目持续开发中，公开版本与使用说明以各项目后续发布为准。
+
+## 我在意的事
+
+- **隐私边界清楚。** 私人录音、原始会话和凭据不随源码发布；使用外部模型时，明确哪些数据会发送到哪里。
+- **结果有依据。** 记录能回查，运行状态能核对，未知的内容不装作确定。
+- **操作由人掌握。** 对外发布先检查、后确认；自动化服务于明确的授权。
+- **从日常使用出发。** 先把真实需要的功能做稳，再逐步完善。
+
+---
+
+<div align="center">
+
+听得明白，做得有据。
+
+</div>
